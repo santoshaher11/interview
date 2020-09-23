@@ -1,4 +1,4 @@
-package com.interview.Patternsearch;
+package com.interview.patternsearch;
 // JAVA program for implementation of KMP pattern
 // searching algorithm
 

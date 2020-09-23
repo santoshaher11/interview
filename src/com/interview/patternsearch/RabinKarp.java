@@ -1,4 +1,4 @@
-package com.interview.Patternsearch;
+package com.interview.patternsearch;
 
 public class RabinKarp {
     // Following program is a Java implementation
